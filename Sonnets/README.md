@@ -1,8 +1,9 @@
 
-In this exercise I will demonstrate how optimizing the coding exercise by using:
+In this exercise I will demonstrate the use of:
 
 - ```list( )```
 - ```dict( )```
 - ```set( )```
+- ```time.time()```
 
-I will also demonstrate how to time how long it takes to run the code in each iteration using the ```time``` module in Python.
+to optimize the run time on our code.
